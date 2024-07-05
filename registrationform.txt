@@ -1,0 +1,9 @@
+<html>
+<head><center><h1> Registration Form</h1></center></head>
+<title>reg form</title>
+<body>
+<form>
+Name: <input type=text><br>
+</form>
+</body>
+</html>

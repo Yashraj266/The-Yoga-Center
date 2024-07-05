@@ -1,0 +1,71 @@
+body{
+background-image:url(yoga.jpg);
+background-attachment:fixed;
+background-size:cover;
+background-color:#efd8f3;
+}
+ol{color:blue;font-family:bahnschriff;text-decoration:bold}
+p{color:#fdf2ff; font-family:Century;font-size:30px}
+dl{color:#f8e5fb; font-family:arial;font-size:30px;font-style:bold}
+h1{color:#fdf2ff; font-family:lucida handwriting;font-size:41px}
+h6{color:#fee3fb;font-size:27px}
+body{color:#fdf2ff; font-family:arial;border-style:solid;border-width:thick;font-size:30px}
+ul{color:#fee3fb;font-family:britannic bold;font-size:30px}
+dd{font-family:Georgia Pro;font-size:20px}
+h3{ color:#eebbf7;}
+h4 {
+	font-size:70px;
+	font-family: Bernard MT Condensed;
+	color:#77447f;
+	width: 100%;
+}
+input:hover {
+	background-color:#cf99bf;
+}
+input[type=text] {
+	width: 25%;
+	padding: 20px 20px;
+	margin: 10px 5px;
+	box-sizing:border-box;
+	border: 2px solid #9c0970;
+	border-radius: 10px;
+	text-align:center;
+}
+input[type=number] {
+	width: 25%;
+	padding: 20px 20px;
+	margin: 10px 5px;
+	box-sizing:border-box;
+	border: 2px solid #9c0970;
+	border-radius: 10px;
+	text-align:center;
+}
+input[type=e-mail] {
+	width: 25%;
+	padding: 20px 20px;
+	margin: 10px 5px;
+	box-sizing:border-box;
+	border: 2px solid #9c0970;
+	border-radius: 10px;
+	text-align:center;
+}
+textarea[type=text] {
+	width: 25%;
+	padding: 20px 20px;
+	margin: 10px 5px;
+	box-sizing:border-box;
+	border: 2px solid #9c0970;
+	border-radius: 10px;
+}
+form {
+	text-align: center;
+	margin:auto;
+	max-width:50%;
+	background-color:#fa99dd;
+	opacity:80%;
+	border-radius: 20px;
+}
+table{
+	font-size:40px;
+	background-color:#fa99dd;
+}
